@@ -1,2 +1,1 @@
-# hello-world
-first repository
+<h1>practise was done<h1>
